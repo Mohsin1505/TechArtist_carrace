@@ -24,7 +24,7 @@ Used minimal materials, optimized textures, and repeated objects to reduce rende
 Assets
 
 Environment props are based on the SimplePoly City asset pack.
-
+the assets that i use are low poly , but the porblem is that they dont use the atlas for material , making variation in the game costly.
 video link 
 https://drive.google.com/file/d/16LTxCrlxo3qF5NbyZ-PzY5b196qxzH1a/view?usp=sharing
 
